@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Natural Language Processing
 - 📫 How to reach me LinkedIn
 - 😄 Pronouns: Him/He
-- ⚡ Fun fact: I am still 20
+- ⚡ Fun fact: I am already 20
 
 <!---
 lincoln-zessta/lincoln-zessta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
